@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import axios from "axios";
-import '../WeatherPage.css'; // Assuming you're adding styles in an external CSS file
+import '../WeatherPage.css'; 
 
 const API_KEY = "794ee95e63c5a32aaf88cd813fa2e425";
 
